@@ -1,9 +1,8 @@
 # 1-day-hackathon
 
 ## P
-- Printer Scanner(Topic: Python, Hacking)
+- [Printer Scanner](https://github.com/junsooo/Printer-Scanner)(Topic: Golang, Hacking)
   - Search for printer pages with default password in specific ip range
-  - WIP
 
 ## Z
 - [ZIP password cracker for android](https://github.com/junsooo/ZIP-password-cracker)(Topic: Java, Kotlin, Android, Hacking)
